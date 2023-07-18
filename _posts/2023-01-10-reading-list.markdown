@@ -11,6 +11,7 @@ tags: reading-list
 - [Playing to Win: How Strategy Really Works](https://rogerlmartin.com/lets-read/playing-to-win) - Roger Martin
 - [Good Strategy Bad Strategy: The difference and why it matters](https://www.booktopia.com.au/good-strategy-bad-strategy-richard-rumelt/book/9781781256176.html) - Richard Rumelt
 - [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://itrevolution.com/product/accelerate/) - Nicole Forsgren, Jez Humble, Gene Kim
+- [Fundamentals of Software Architecture](http://fundamentalsofsoftwarearchitecture.com/) - Mark Richards & Neal Ford
 
 # Blog posts
 - [Being Glue](https://noidea.dog/glue) - Tanya Reilly
