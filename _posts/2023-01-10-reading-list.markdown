@@ -16,3 +16,4 @@ tags: reading-list
 # Blog posts
 - [Being Glue](https://noidea.dog/glue) - Tanya Reilly
 - [But what about the BAU work?](https://dannorth.net/2023/03/02/but-what-about-the-bau-work/) - Dan North
+- [Maker’s Schedule, Manager’s Schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham
